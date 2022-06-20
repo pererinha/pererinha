@@ -5,4 +5,3 @@
 - 👯 i’m looking to collaborate on whatever you need
 - 💬 ask me about my day
 - 📫 how to reach me: danielcamargo@email.com
-- ⚡ fun fact: nah
