@@ -1,7 +1,5 @@
-### Hi there 👋
+### Experienced Developer and Technical Problem Solver
 
-- 🔭 i’m currently working on [ae studio](https://ae.studio)
-- 🌱 i’m currently learning a lot of stuff
-- 👯 i’m looking to collaborate on whatever you need
-- 💬 ask me about my day
-- 📫 how to reach me: danielcamargo@email.com
+As a skilled developer with extensive experience in programming languages and technologies, I am able to work quickly and efficiently, ensuring that projects are completed on time and to the highest standards. I pride myself on my ability to solve coding problems and provide technical support to other teams and projects, acting as a firefighter when challenges arise. With a deep understanding of the latest technologies and trends, I stay up to date with the industry's best practices and continue to develop my skill set to stay at the forefront of my field.
+
+In my current role, I leverage my technical expertise to maximize efficiency and drive success. My ability to work collaboratively with other teams, as well as my dedication to meeting project objectives, has led to the successful delivery of a variety of complex projects. Whether it's developing new software, maintaining existing systems, or troubleshooting issues, I am committed to delivering results that exceed expectations.
